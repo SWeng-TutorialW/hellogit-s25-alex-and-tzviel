@@ -24,7 +24,6 @@
 		<font>
 			<Font size="24.0" />
 		</font>
-		
 	</Label>
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
