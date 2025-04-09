@@ -15,7 +15,7 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
-	<!-- Additional Label for Alex Chudnovsky -->
+	 <!-- Additional Label for Alex Chudnovsky -->
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
 		   text="Alex Chudnovsky"
@@ -24,6 +24,7 @@
 		<font>
 			<Font size="24.0" />
 		</font>
+		
 	</Label>
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
